@@ -2,7 +2,7 @@
   {
     "_id": "6224ea5ed15760cedf246e9a",
     "name": "Jio-Mart Clone",
-    "imgURL": "https://drive.google.com/file/d/1bWi59cGNE_f8S_m07Gqf_Qlf6sh75Ecz/view?usp=sharing",
+    "imgURL": "https://camo.githubusercontent.com/8f0ad876e70cc0bc4f3b4a379cc88fe89acca4c4bbfa21e1125631ebf8aa7327/68747470733a2f2f692e696d6775722e636f6d2f635354574262692e706e67",
     "type": "Big Project",
     "url": "https://jio-mart-clone.vercel.app/",
     "desc": "Jio-Mart is an e-commerce site that sells groceries, clothes, and personal care items. It is a collaborative project built by a team of 5 executed in 5 days.",
@@ -25,7 +25,7 @@
   {
     "_id": "6224ea5ed15760cedf246e9b",
     "name": "Blinkit-Clone",
-    "imgURL": "https://drive.google.com/file/d/1p73ErtSHhmtYUXFF0nkDoeOodveJZiNm/view?usp=sharing",
+    "imgURL": "https://camo.githubusercontent.com/0b8395a22c798d06347a6603be9758bb6b838f413d2e9ad6c35d843f0dd99579/68747470733a2f2f692e696d6775722e636f6d2f364b4c383465362e706e67",
     "type": "Big Project",
     "url": "https://mynew-tan.vercel.app/",
     "desc": "Clone of the Popular Ecommerce App Blinkit. All the front-end is built using advanced Javascript, HTML, CSS. Built buy a team of 4 in a week.",
@@ -49,7 +49,7 @@
   {
     "_id": "6224ea5ed15760cedf246e9e",
     "name": "Blinkit-Clone-Backend",
-    "imgURL": "https://drive.google.com/file/d/1eOQj4_DAaBi5YBTBe_0gOmIuinqUr1VC/view?usp=sharing",
+    "imgURL": "https://camo.githubusercontent.com/2eef03bf6737493dfdf1768ed9cdb4bacf8e1cc41f51b7bd0b16128acf69a117/68747470733a2f2f692e696d6775722e636f6d2f567263753055632e706e67",
     "type": "Big Project",
     "url": "https://blinkit-clone-backend.herokuapp.com/",
     "desc": "Our first Backend Project with NodeJS, ExpressJS and MongoDB. Used HTML to render views. Able to provide form validation and user authentication in the backend. A full stack project built by a team of 4 in a week.",
@@ -74,7 +74,7 @@
   {
     "_id": "6224ea5ed15760cedf246e9c",
     "name": "Youtube-Mini-App",
-    "imgURL": "https://drive.google.com/file/d/1hLhQdMw1dh96fM0n3nFf1_MqXYCRYXTQ/view?usp=sharing",
+    "imgURL": "https://camo.githubusercontent.com/4e97bdb5d4cfbc45049a452ea99cba41efa27e0966f51384c8c5a7fccf849e9c/68747470733a2f2f692e696d6775722e636f6d2f44764a354f39442e706e67",
     "type": "Mini Project",
     "url": "https://you-tube-mini-app.vercel.app/",
     "desc": "YouTube is a free video sharing website that makes it easy to watch online videos.",
@@ -94,7 +94,7 @@
   {
     "_id": "6224ea5ed15760cedf246e9d",
     "name": "Weather-App",
-    "imgURL": "https://drive.google.com/file/d/1r-J4-yn61lmqrfHgC_Df1etdRKKBuP3k/view?usp=sharing",
+    "imgURL": "https://camo.githubusercontent.com/54c4129520b5a4f007a0ef137ee640ef1cbaa1a224b65ef6d472c758b567285a/68747470733a2f2f692e696d6775722e636f6d2f47454732517a722e706e67",
     "type": "Mini Project",
     "url": "https://mini-weather-app.vercel.app/",
     "desc": "A mini weather app using openweather API built on HTML,CSS, Advanced Javascript in which user can search for any location and it will show current weather as well as weather for next seven days of the searched location with a map attached on it.",
