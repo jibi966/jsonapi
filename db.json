@@ -111,5 +111,29 @@
       "Created DOM, CSS parts"
     ],
     "gitLink": "https://github.com/jibi966/Mini-Weather-App"
+  },
+    {
+    "_id": "6224ea5ed15760cedf246e9f",
+    "name": "GrubHub-Clone",
+    "imgURL": "https://user-images.githubusercontent.com/95849038/161434556-ec556e73-c07f-4bd5-8289-3aad1cd548d8.png",
+    "type": "Big Project",
+    "url": "https://grubhub-clone-project.vercel.app/",
+    "desc": "This is a clone of the website GRUBHUB where we implemented some additional features for better user experience",
+    "stack": ["html", "css", "javascript","react","redux","mongodb","express"],
+    "features": [
+      "User login Signup Authentication and Validation",
+      "End to End Flow.",
+      "Google oAuth",
+      "Used MongoDb for storing Data",
+      "Search option"
+    ],
+    "responsibility": [
+      "Implemented routes for all components",
+      "Debouncing for searching restaurants",
+      "Created cart page using Chakra-UI",
+      "Created redux store",
+      "Navigating users to different routes"
+    ],
+    "gitLink": "https://github.com/kajalG-97/GRUBHUB-CLONE-PROJECT"
   }
 ]
