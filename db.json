@@ -134,6 +134,28 @@
       "Created redux store",
       "Navigating users to different routes"
     ],
-    "gitLink": "https://github.com/kajalG-97/GRUBHUB-CLONE-PROJECT"
+    "gitLink": "https://github.com/jibi966/GRUBHUB-CLONE-PROJECT"
+  },    {
+    "_id": "6224ea5ed15760cedf246e9g",
+    "name": "Chat integrated Club management system",
+    "imgURL": "https://user-images.githubusercontent.com/95849038/166104115-2d59ea1a-9baf-4244-9f73-acaaeb932f4a.png",
+    "type": "Big Project",
+    "url": "https://server-monks.vercel.app/",
+    "desc": "A Chat integrated club management system for students where they can interact with each other",
+    "stack": ["html", "css", "javascript","react","redux","mongodb","express"],
+    "features": [
+      "Sorting, Filtering, and Pagination",
+      "State management through Redux",
+      "Chat systems with Web-Rtc and Web-Sockets",
+      "Profile section, Login/SignUp, and Individual section for clubs"
+    ],
+    "responsibility": [
+      "Built individual chat system with web sockets",
+      "Handled state management through redux",
+      "Designed the navbar with material UI",
+      "Developed dynamic user information section with file upload",
+      "Navigating users to different routes"
+    ],
+    "gitLink": "https://github.com/jibi966/club-management-with-webRTC-and-WebSocket"
   }
 ]
