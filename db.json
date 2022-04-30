@@ -47,31 +47,6 @@
     "gitLink": "https://github.com/jibi966/blinkit_clone"
   },
   {
-    "_id": "6224ea5ed15760cedf246e9e",
-    "name": "Blinkit-Clone-Backend",
-    "imgURL": "https://camo.githubusercontent.com/2eef03bf6737493dfdf1768ed9cdb4bacf8e1cc41f51b7bd0b16128acf69a117/68747470733a2f2f692e696d6775722e636f6d2f567263753055632e706e67",
-    "type": "Big Project",
-    "url": "https://blinkit-clone-backend.herokuapp.com/",
-    "desc": "Our first Backend Project with NodeJS, ExpressJS and MongoDB. Used HTML to render views. Able to provide form validation and user authentication in the backend. A full stack project built by a team of 4 in a week.",
-    "stack": ["html", "css", "javascript", "node", "mongodb", "express"],
-    "features": [
-      "User login Signup Authentication and Validation",
-      "Geolocation feature for current location",
-      "Used MongoDb for storing Data",
-      "End to End Flow",
-      "Sorting product feature based on name and price"
-    ],
-    "responsibility": [
-      "Built all the Category pages of the website",
-      "Integrated all the pages successfully",
-      "Created DOM, CSS parts",
-      "Developed the Payment page",
-      "Full Dynamic Pages By API Fetch",
-      "Built Add to Cart functionality"
-    ],
-    "gitLink": "https://github.com/jibi966/Blinkit-clone-backend"
-  },
-  {
     "_id": "6224ea5ed15760cedf246e9c",
     "name": "Youtube-Mini-App",
     "imgURL": "https://camo.githubusercontent.com/4e97bdb5d4cfbc45049a452ea99cba41efa27e0966f51384c8c5a7fccf849e9c/68747470733a2f2f692e696d6775722e636f6d2f44764a354f39442e706e67",
